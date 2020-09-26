@@ -1,0 +1,1 @@
+// Exception handling is when you need to catch an error to prevent it from breaking the entire program;
